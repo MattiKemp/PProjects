@@ -1,0 +1,9 @@
+This is a work project for a beginner Android Developer class. 
+It was cut a little short so some of the features aren't very fleshed out, debugged, or optimized.
+The program is a basic Android app that uses GitHub's API to search for trending repos.
+It displays trending repos in a list that the user can look through/interact with.
+If the user clicks on a repo in the list it will show the repo on a new screen with a little
+more information.
+
+To run the program you have to download and extract the zip, then you need to open the extracted
+files in Android Studio. Run the app in an emulator of your desired device and it should open.
